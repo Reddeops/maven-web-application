@@ -31,9 +31,9 @@
 	<dependencies>
 		
 		<dependency>
-			<groupId>org.json</groupId>
-			<artifactId>json</artifactId>
-			<version>20160212</version>
+			<groupId>com.mt</groupId>
+  <artifactId>maven-web-application</artifactId>
+  <version>0.0.1-20241010.073725-1</version>
 		</dependency>
 		
 		<!-- test dependencies -->

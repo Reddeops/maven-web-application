@@ -89,6 +89,11 @@
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+  <groupId>com.mt</groupId>
+  <artifactId>maven-web-application</artifactId>
+  <version>0.0.1-20241010.073725-1</version>
+</dependency>
 		
 	</dependencies>
 	
